@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayesha328915/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Ayesha328915/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayesha328915/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayesha328915/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayesha328915/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayesha328915/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ayesha328915/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ayesha328915/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayesha328915/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
