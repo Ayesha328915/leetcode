@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ayesha328915/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayesha328915/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayesha328915/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Ayesha328915/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ayesha328915/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ayesha328915/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayesha328915/leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Ayesha328915/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ayesha328915/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Ayesha328915/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
