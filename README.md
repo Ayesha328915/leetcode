@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayesha328915/leetcode/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ayesha328915/leetcode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
