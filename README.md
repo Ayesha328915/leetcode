@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayesha328915/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayesha328915/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayesha328915/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayesha328915/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ayesha328915/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayesha328915/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ayesha328915/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayesha328915/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayesha328915/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayesha328915/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ayesha328915/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
