@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayesha328915/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ayesha328915/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ayesha328915/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayesha328915/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ayesha328915/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ayesha328915/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayesha328915/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayesha328915/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayesha328915/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ayesha328915/leetcode/tree/master/0205-isomorphic-strings) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Ayesha328915/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayesha328915/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayesha328915/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ayesha328915/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
